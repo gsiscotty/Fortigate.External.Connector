@@ -4,7 +4,7 @@
 # Created by: Konrad von Burg           #
 # Date: 2024-09-20                      #
 # Description: This Script converts API #
-# IP List to .txt file list from github #
+# IP Lists to .txt file list from github #
 # FortiGate Firewall can import this    #
 # via FortiGate External Connector      #
 #                                       #
